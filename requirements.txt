@@ -1,4 +1,4 @@
 flask
-git+https://github.com/supabase-community/supabase-py.git@0.0.6
+supabase-py==<v2.13.0>
 python-dotenv
 
